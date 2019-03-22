@@ -18,10 +18,13 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="fa\Factory.h">
+    <ClCompile Include="工厂模式\Factory.h">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="fa\Product.h">
+    <ClCompile Include="工厂模式\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="工厂模式\Product.h">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
