@@ -19,10 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Builder\Builder.h" />
     <ClInclude Include="原型模式\ConcretePrototype.h" />
     <ClInclude Include="原型模式\Prototype.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Builder\Source.cpp" />
     <ClCompile Include="原型模式\Main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

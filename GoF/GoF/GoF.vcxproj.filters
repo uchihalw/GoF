@@ -21,9 +21,15 @@
     <ClInclude Include="原型模式\ConcretePrototype.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Builder\Builder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="原型模式\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Builder\Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
