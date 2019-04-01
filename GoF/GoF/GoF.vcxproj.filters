@@ -15,16 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="工厂模式\Factory.h">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="工厂模式\Main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="工厂模式\Product.h">
+    <ClInclude Include="原型模式\Prototype.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="原型模式\ConcretePrototype.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="原型模式\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

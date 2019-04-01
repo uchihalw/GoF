@@ -19,10 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="工厂模式\Main.cpp" />
-    <ClCompile Include="Source.cpp" />
-    <ClCompile Include="工厂模式\Factory.h" />
-    <ClCompile Include="工厂模式\Product.h" />
+    <ClInclude Include="原型模式\ConcretePrototype.h" />
+    <ClInclude Include="原型模式\Prototype.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="原型模式\Main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{14501022-A16E-4521-AA84-D0C34C174D95}</ProjectGuid>

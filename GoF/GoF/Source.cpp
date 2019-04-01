@@ -3,7 +3,7 @@
 #include <exception>
 #include <queue>
 #include <thread>
-#include"/Microsoft Visual Studio 14.0/project/GoF/GoF/GoF/fa/Factory.h"
+
 using namespace std;
 /*
 0. abort() 函数原型位于cstdlib.h || stdlib.h
@@ -221,7 +221,7 @@ private:
 	Factory* fac;
 };
 
-void main()
+void mains()
 {
 	Factory_A* fac = new Factory_A();
 	Main mn(fac);
