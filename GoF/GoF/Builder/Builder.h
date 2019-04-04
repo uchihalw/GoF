@@ -19,8 +19,21 @@ public:
 	virtual void BuildPart2() = 0;
 	virtual void BuildPart3() = 0;
 
-};class StoneHouse : public House {
+};
+class StoneHouse : public House {
 	virtual void BuildPart1() {};
 	virtual void BuildPart2() {};
 	virtual void BuildPart3() {};
-};
+};
+
+
+
+
+
+
+
+
+
+
+
+

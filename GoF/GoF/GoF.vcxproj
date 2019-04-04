@@ -18,15 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Builder\Builder.h" />
-    <ClInclude Include="原型模式\ConcretePrototype.h" />
-    <ClInclude Include="原型模式\Prototype.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Builder\Source.cpp" />
-    <ClCompile Include="原型模式\Main.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{14501022-A16E-4521-AA84-D0C34C174D95}</ProjectGuid>
     <RootNamespace>GoF</RootNamespace>
