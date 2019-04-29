@@ -18,6 +18,12 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="门面模式\Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="门面模式\Facade.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{14501022-A16E-4521-AA84-D0C34C174D95}</ProjectGuid>
     <RootNamespace>GoF</RootNamespace>
